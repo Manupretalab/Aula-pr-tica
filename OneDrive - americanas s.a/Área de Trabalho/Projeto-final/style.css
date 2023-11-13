@@ -85,8 +85,9 @@ h1, h3 {
 h2, h4 {
     color: hsl(320, 2%, 51%);
     padding-top: 20px;
-    padding-left: 70px
-}
+    padding-left: 80px;
+    padding-bottom: 10px;
+  }
 
 
 
